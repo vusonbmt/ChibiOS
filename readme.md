@@ -1,4 +1,4 @@
-Build result and artifact on CircleCI - [![CircleCI](https://circleci.com/gh/hocarm/ChibiOS.svg?style=svg)](https://circleci.com/gh/hocarm/ChibiOS)
+Build result and artifact on CircleCI [![CircleCI](https://circleci.com/gh/hocarm/ChibiOS.svg?style=svg)](https://circleci.com/gh/hocarm/ChibiOS)
 
 *****************************************************************************
 *** Files Organization                                                    ***
