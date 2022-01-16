@@ -26,13 +26,13 @@ jobs:
       - run:
           name: Intall apt packages
           command: 'sudo apt install libc6-dev-i386'
-      - run:
-          name: Build Unit Tests
+      # - run:
+      #     name: Build Unit Tests
           # command: |
           #     cd test/rt/testbuild
           #     make
-      - run:
-          name: Run Unit Tests
+      # - run:
+      #     name: Run Unit Tests
           # command: |
           #     ./test/rt/testbuild/build/ch
 
